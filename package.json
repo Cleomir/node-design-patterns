@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Cleomir Machado Gomes",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "morse": "^0.1.0"
+  }
 }
